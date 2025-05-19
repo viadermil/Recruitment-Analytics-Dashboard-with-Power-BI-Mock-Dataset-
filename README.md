@@ -25,7 +25,7 @@ The data was generated using [Mockaroo](https://mockaroo.com) with realistic rec
 |--------------------------|-------------|
 | **Total Candidates**     | Total number of job applicants received. |
 | **Total Hires**          | Number of applicants successfully hired. |
-| **Average Time to Hire** | Average number of days between application and hiring. |
+| **Average Days to Hire** | Average number of days between application and hiring. |
 | **Offer Acceptance Rate**| Percentage of offers accepted out of total offers made. |
 
 ---
