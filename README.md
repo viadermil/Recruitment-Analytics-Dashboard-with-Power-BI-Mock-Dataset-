@@ -120,4 +120,4 @@ This helps monitor pipeline efficiency, identify bottlenecks, and improve time-t
 
 ## 📬 Contact
 
-If you have any questions or feedback about this dashboard or want to collaborate, feel free to reach out via GitHub issues or [LinkedIn](https://linkedin.com/viadermil).
+If you have any questions or feedback about this dashboard or want to collaborate, feel free to reach out via GitHub issues or [LinkedIn](https://linkedin.com/in/viadermil).
