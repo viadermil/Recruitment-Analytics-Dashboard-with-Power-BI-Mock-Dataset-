@@ -96,7 +96,6 @@ The **candidate pipeline** tracks the journey of applicants through recruitment 
 3. **Interviewed**  
 4. **Offered**  
 5. **Hired**  
-6. **Rejected**  
 
 This helps monitor pipeline efficiency, identify bottlenecks, and improve time-to-fill metrics.
 
